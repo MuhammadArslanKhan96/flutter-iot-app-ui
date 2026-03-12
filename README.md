@@ -6,8 +6,3 @@ It includes elegant cards, smooth animations, status indicators, and a clean lay
 
 UI Reference: https://dribbble.com/shots/14180391-Smart-Home
 
-
-
-
-
-
